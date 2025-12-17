@@ -1,2 +1,3 @@
-﻿The payment module created version 1.0.1
+﻿The payment module created version 1.0.1.
+
 
